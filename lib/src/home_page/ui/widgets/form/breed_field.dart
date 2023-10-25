@@ -26,18 +26,15 @@ class BreedField extends ConsumerWidget {
           validator: (val) =>
               val == null ? translation.forms.selectValue : null,
           hintText: translation.homePage.hintBreed,
-          items: [DropdownMenuItem<String>(
-            value: "Wrong breed",
-            child: Text("Wrong breed"),
-          )]+viewModel.storedBreeds.keys
-              .map((e) => e)
-              .map(
-                (e) => DropdownMenuItem<String>(
-                  value: e,
-                  child: Text(e.capitalize()),
-                ),
-              )
-              .toList(),
+          items: viewModel.storedBreeds.keys
+                  .map((e) => e)
+                  .map(
+                    (e) => DropdownMenuItem<String>(
+                      value: e,
+                      child: Text(e.capitalize()),
+                    ),
+                  )
+                  .toList(),
         ),
       ],
     );
