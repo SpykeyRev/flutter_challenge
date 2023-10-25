@@ -1,0 +1,24 @@
+#Not Found Page
+notFoundPage:
+  somethingWentWrong: Qualcosa è andato storto...
+  retry: Riprova
+
+#Home Page
+homePage:
+  title: Benvenuto!\nScegli una razza tra quelle elencate
+  hintBreed: Scegli una razza
+  hintSubBreed: Scegli una sotto-razza
+  getRandomImage: Ottieni un'immagine randomica
+  getAllImages: Ottieni tutte le immagini
+  breed: Razza
+  subBreed: Sotto-razza
+  all: Tutte
+
+#Results Page
+resultsPage:
+  noResults: Non ci sono risultati
+
+#Generic - Forms
+forms:
+  selectValue: Seleziona un opzione
+  search: Cerca...

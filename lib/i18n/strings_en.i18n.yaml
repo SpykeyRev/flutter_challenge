@@ -1,0 +1,24 @@
+#Not Found Page
+notFoundPage:
+  somethingWentWrong: Something went wrong...
+  retry: Retry
+
+#Home Page
+homePage:
+  title: Welcome!\nChoose a breed from those listed
+  hintBreed: Choose a breed
+  hintSubBreed: Choose a sub-breed
+  getRandomImage: Get a random picture
+  getAllImages: Get all the pictures
+  breed: Breed
+  subBreed: Sub-breed
+  all: All of them
+
+#Results Page
+resultsPage:
+  noResults: No results available
+
+#Generic - Forms
+forms:
+  selectValue: Select an option
+  search: Search...
