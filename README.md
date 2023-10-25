@@ -31,28 +31,28 @@ All the dev-dependencies are the ones needed to build and lint the app.
 
 - No breed selected, getting a random image
     - Expected Behavior: Error: Select a breed
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/no_breed_random.gif)
 - No breed selected, getting all images
     - Expected Behavior: Error: Select a breed
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/no_breed_all_images.gif)
 - Breed selected, getting a random image
     - Expected Behavior: Push new page, get image
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/breed_random_image.gif)
 - Breed selected, getting all images
     - Expected Behavior: Push new page, get images
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/breed_all_images.gif)
 - Breed and Sub-breed selected, getting a random image
     - Expected Behavior: Push new page, get image
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/breed_sub_breed_random_image.gif)
 - Breed and Sub-breed selected, getting all images
     - Expected Behavior: Push new page, get images
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/breed_sub_breed_all_images.gif)
 - No network
     - Expected Behavior: Error page with retry
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/no_network.gif)
 - Results page, no network
     - Expected Behavior: Error page with retry
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/breed_no_network.gif)
 - Results page, wrong breed
     - Expected Behavior: Error page with retry
-      ![](https://github.com/feduke-nukem/animated_glitch/assets/72284940/979b98b9-ea21-476e-92c4-cd01e5cecd4f)
+      ![](https://github.com/SpykeyRev/flutter_challenge/blob/6c06e47acbc4b5b5c45dcb41cb0e43362ded7409/readme_images/wrong_breed.gif)
