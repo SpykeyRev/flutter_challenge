@@ -4,7 +4,7 @@ This project was created for the challenge requested by Deliveristo for the open
 
 ## Getting Started
 
-For starting the project there's no configuration need.
+For starting the project there's no configuration needed.
 Just run the following commands:
 1. `flutter pub get`
 2. `flutter run`
