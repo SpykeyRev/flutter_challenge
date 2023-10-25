@@ -13,11 +13,11 @@ Just run the following commands:
 
 ## Technical info
 
-The app is based on a mix of mvvm and clean architecture (of the Uncle Bob, the uncle of all programmers).
+The app is based on a mix of mvvm and clean architecture (of Uncle Bob, the uncle of all programmers).
 
 The main packages are used all serves a purpose as follows:
 
-- [flutter_displaymode](https://pub.dev/packages/flutter_displaymode): Enables the developer to change the refresh rate and resolution of the device (Used only for android, iOS, MacOS, Web, Linux, and Windows automatically supports high refresh rate)
+- [flutter_displaymode](https://pub.dev/packages/flutter_displaymode): Enables the developer to change the refresh rate and resolution of the device (Used only for android. iOS, MacOS, Web, Linux, and Windows automatically supports high refresh rate)
 - [flutter_riverpod](https://pub.dev/packages/flutter_riverpod): Reactive state management, my favourite
 - [go_router](https://pub.dev/packages/go_router): Routing powered by google, safest and fastest choice for a clean and efficient routing for all platform
 - [dio](https://pub.dev/packages/dio): Networking package, used by everyone for it's ease of use
